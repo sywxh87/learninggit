@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 Add comment
 Add author
+=======
+Tag is v1.0
+>>>>>>> 0fb4bcf587dd6418e45cd1dba71008bb32354f0e
